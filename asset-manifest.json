@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/little-lemon-restaurant/static/css/main.ff6f92ab.css",
-    "main.js": "/little-lemon-restaurant/static/js/main.62deb8d7.js",
-    "static/js/787.b7de270b.chunk.js": "/little-lemon-restaurant/static/js/787.b7de270b.chunk.js",
-    "static/media/customer-2.jpg": "/little-lemon-restaurant/static/media/customer-2.9ced994a291b009b138c.jpg",
-    "static/media/customer-4.jpg": "/little-lemon-restaurant/static/media/customer-4.495930b179a311afeac8.jpg",
-    "static/media/customer-3.jpg": "/little-lemon-restaurant/static/media/customer-3.145ebb3693e4d14354f0.jpg",
-    "static/media/customer-1.jpg": "/little-lemon-restaurant/static/media/customer-1.090f5bc5268c0f5d69ab.jpg",
-    "static/media/greek-salad.jpg": "/little-lemon-restaurant/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
-    "static/media/bruschetta.jpg": "/little-lemon-restaurant/static/media/bruschetta.d54e450bda5efcf06010.jpg",
-    "static/media/restaurant-food.jpeg": "/little-lemon-restaurant/static/media/restaurant-food.4796007d35341d87118d.jpeg",
-    "static/media/chefs1.jpeg": "/little-lemon-restaurant/static/media/chefs1.32d1da89913abe956ab6.jpeg",
-    "static/media/lemon-dessert.jpg": "/little-lemon-restaurant/static/media/lemon-dessert.a146cfc0ccf8ce82fae4.jpg",
-    "static/media/chefs2.jpeg": "/little-lemon-restaurant/static/media/chefs2.952806f5f0b10172cd26.jpeg",
-    "static/media/logo-white.png": "/little-lemon-restaurant/static/media/logo-white.d09eb2af6c5a2225eedf.png",
-    "static/media/logo.png": "/little-lemon-restaurant/static/media/logo.e68246686f716ff6e5d8.png",
-    "index.html": "/little-lemon-restaurant/index.html",
-    "main.ff6f92ab.css.map": "/little-lemon-restaurant/static/css/main.ff6f92ab.css.map",
-    "main.62deb8d7.js.map": "/little-lemon-restaurant/static/js/main.62deb8d7.js.map",
-    "787.b7de270b.chunk.js.map": "/little-lemon-restaurant/static/js/787.b7de270b.chunk.js.map"
+    "main.css": "/little-lemon-web-app/static/css/main.ff6f92ab.css",
+    "main.js": "/little-lemon-web-app/static/js/main.7206f56b.js",
+    "static/js/787.b7de270b.chunk.js": "/little-lemon-web-app/static/js/787.b7de270b.chunk.js",
+    "static/media/customer-2.jpg": "/little-lemon-web-app/static/media/customer-2.9ced994a291b009b138c.jpg",
+    "static/media/customer-4.jpg": "/little-lemon-web-app/static/media/customer-4.495930b179a311afeac8.jpg",
+    "static/media/customer-3.jpg": "/little-lemon-web-app/static/media/customer-3.145ebb3693e4d14354f0.jpg",
+    "static/media/customer-1.jpg": "/little-lemon-web-app/static/media/customer-1.090f5bc5268c0f5d69ab.jpg",
+    "static/media/greek-salad.jpg": "/little-lemon-web-app/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
+    "static/media/bruschetta.jpg": "/little-lemon-web-app/static/media/bruschetta.d54e450bda5efcf06010.jpg",
+    "static/media/restaurant-food.jpeg": "/little-lemon-web-app/static/media/restaurant-food.4796007d35341d87118d.jpeg",
+    "static/media/chefs1.jpeg": "/little-lemon-web-app/static/media/chefs1.32d1da89913abe956ab6.jpeg",
+    "static/media/lemon-dessert.jpg": "/little-lemon-web-app/static/media/lemon-dessert.a146cfc0ccf8ce82fae4.jpg",
+    "static/media/chefs2.jpeg": "/little-lemon-web-app/static/media/chefs2.952806f5f0b10172cd26.jpeg",
+    "static/media/logo-white.png": "/little-lemon-web-app/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/logo.png": "/little-lemon-web-app/static/media/logo.e68246686f716ff6e5d8.png",
+    "index.html": "/little-lemon-web-app/index.html",
+    "main.ff6f92ab.css.map": "/little-lemon-web-app/static/css/main.ff6f92ab.css.map",
+    "main.7206f56b.js.map": "/little-lemon-web-app/static/js/main.7206f56b.js.map",
+    "787.b7de270b.chunk.js.map": "/little-lemon-web-app/static/js/787.b7de270b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff6f92ab.css",
-    "static/js/main.62deb8d7.js"
+    "static/js/main.7206f56b.js"
   ]
 }
